@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/new_graph"
+        android:orderInCategory="1"
+        android:title="Новый граф" />
+    <item
+        android:id="@+id/load_graph"
+        android:orderInCategory="2"
+        android:title="Загрузить граф" />
+    <item
+        android:id="@+id/rename_graph"
+        android:orderInCategory="3"
+        android:title="Переименовать граф" />
+    <item
+        android:id="@+id/delete_graph"
+        android:orderInCategory="4"
+        android:title="Удалить текущий граф" />
+    <item
+        android:id="@+id/sessions"
+        android:orderInCategory="5"
+        android:title="Сессии" />
+    <item
+        android:id="@+id/setting"
+        android:orderInCategory="6"
+        android:title="Настройки" />
+</menu>

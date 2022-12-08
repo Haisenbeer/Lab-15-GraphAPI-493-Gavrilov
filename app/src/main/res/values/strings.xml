@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab 15 Graph</string>
+    <string name="btn_Login">Войти</string>
+    <string name="btn_Registration">Регистрация</string>
+    <string name="btn_SignUp">Зарегестрироваться</string>
+    <string name="btn_Back">Вернуться</string>
+    <string name="btn_Save">Сохранить</string>
+    <string name="tv_CationNode">Подпись:</string>
+    <string name="tv_CaptionLink">Вес графа:</string>
+    <string name="tv_Graphs">Ваши графы</string>
+    <string name="tv_NewGraphsName">Новое название графа:</string>
+    <string name="tv_Login">Логин:</string>
+    <string name="tv_Password">Пароль:</string>
+    <string name="tv_Setting">Настройки</string>
+    <string name="edHint_Login">Ваш логин</string>
+    <string name="edHint_Password">Ваш пароль</string>
+    <string name="edHint_API">API</string>
+    <string name="switch_SaveData">Сохранять данные</string>
+</resources>
